@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        //"/home/tringuyen/Downloads/hadoop-3.3.0/share/hadoop/*/*.jar",
+        //"/home/tringuyen/Downloads/hadoop-3.3.0/share/hadoop/*/lib/*.jar"
+        "/home/ubuntu/Desktop/hadoop-3.3.0/share/hadoop/*/*.jar",
+        "/home/ubuntu/Desktop/hadoop-3.3.0/share/hadoop/*/lib/*.jar"
+        ]
+}
